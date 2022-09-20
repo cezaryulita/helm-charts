@@ -46,7 +46,7 @@ database:
   name: cachet
   username: cachet
   password: ""
-  driver: pssql
+  driver: pgsql
 
 env:
   public:
